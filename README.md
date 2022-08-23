@@ -15,7 +15,7 @@
 
 
 **Currículo feito durante o Workshop Jornada Dev organizado pela EBAC, ministrado pelos professores Daniel Santos e Pedro Brocaldi.**
-<br>Focado no aprendizado do essencial dentro do Git e GitHub, e tambémo as linguagens HTML e CSS, se aprofundando no processo de controle remoto para commmits e pull requests de projetos para a página pessoal do GitHub.
+<br>Focado no aprendizado do essencial dentro do Git e GitHub, e tambémo nas linguagens HTML e CSS. <br>Foco no aprendizado de criação e controle remoto trabalhos feitos no GitHub.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)

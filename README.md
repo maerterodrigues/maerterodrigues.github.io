@@ -5,7 +5,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://ebaconline.com.br/_nuxt/d58908d198123d3c50c18638f58abb26.svg">
   <img alt="Logo EBAC" src="https://ebaconline.com.br/_nuxt/d58908d198123d3c50c18638f58abb26.svg">
 </picture>
-<h2 align="center">Portfolio Jornada Dev</h1>
+<h2 align="center">Portfólio Jornada Dev</h1>
 </p>
 
 <h1 align="center">
